@@ -79,3 +79,8 @@ Might be slightly biased towards Swedish tools :)
 - [QA.tech](https://qa.tech) - AI agent based testing of SaaS products 🇸🇪
 - [hyperwriteai](https://www.hyperwriteai.com/) - Uses browser in real-time and does the job for you
 - [GPTEngineer](https://gptengineer.app/) - Chat to an agent and generate complete web apps 🇸🇪
+
+## Ask Anything
+
+- [ChatGPT (openapi)](https://chat.openai.com/chat) - An AI chatbot that can answer anything
+- [Bard with Gemini (google)](https://bard.google.com/) - An AI chatbot that can answer anything, from google.
