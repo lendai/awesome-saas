@@ -56,3 +56,12 @@ Might be slightly biased towards Swedish tools :)
 - [Google Cloud AI startup program](https://cloud.google.com/startup/ai?hl=en) - Great startup discounts
 - [Microsoft for Startups](https://www.microsoft.com/en-us/startups) - Offers onboarding and coaching. Best of the big ones.
 - [AWS Activate](https://aws.amazon.com/startups/credits) - Amazons startup program
+
+## LLM tooling
+
+- [ORQ](https://orq.ai/) - Experiment with Gen AI use cases and monitor performance
+- [FinetuneDB](https://finetunedb.com/) - Easily create and manage datasets to fine-tune LLMs
+
+## Code Generation
+
+- [GPTEngineer](https://gptengineer.app/) - Build simple web apps with agents 🇸🇪
