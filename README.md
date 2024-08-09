@@ -23,3 +23,9 @@ Might be slightly biased towards Swedish tools :)
 - [June](https://www.june.so/) - Customer analytics for product focused teams
 - [Steep](https://steep.app/) - Notion but for data visualization (🇸🇪)
 - [Hex](https://hex.tech/) - Easy graphing tool
+
+## Database
+
+- [Supabase](https://supabase.com/) - Combines postgres and a Firebase like setup, but open source
+- [Firebase](https://firebase.google.com/) - Database and application layer
+- [Neo4j](https://neo4j.com/) - My graph database of choice (🇸🇪)
