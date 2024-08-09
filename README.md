@@ -65,3 +65,10 @@ Might be slightly biased towards Swedish tools :)
 ## Code Generation
 
 - [GPTEngineer](https://gptengineer.app/) - Build simple web apps with agents 🇸🇪
+
+## Coding
+
+- [ChatGPT](https://chat.openai.com/chat) - An AI-powered chatbot that can answer anything, do text generation, solve math problems, and code. It offers conversation capabilities.
+- [Github Copilot](https://github.com/features/copilot) - Your AI pair programmer, GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
+- [Codeball Ai](https://codeball.ai/) - AI-powered code review. Codeball finds bugs in your Pull Requests, lets you ship faster and with higher confidence. The Codeball AI is trained on millions of code contributions to recognize risky code changes.
+- [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An automated tool for code summarization and completion using GPT models.
