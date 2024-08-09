@@ -50,3 +50,9 @@ Might be slightly biased towards Swedish tools :)
 ## Payments
 
 - [Stripe](https://stripe.com/) - Simple setup, good startup deals
+
+## Startup Programs
+
+- [Google Cloud AI startup program](https://cloud.google.com/startup/ai?hl=en) - Great startup discounts
+- [Microsoft for Startups](https://www.microsoft.com/en-us/startups) - Offers onboarding and coaching. Best of the big ones.
+- [AWS Activate](https://aws.amazon.com/startups/credits) - Amazons startup program
