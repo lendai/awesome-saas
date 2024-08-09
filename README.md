@@ -35,3 +35,10 @@ Might be slightly biased towards Swedish tools :)
 - [Sentry](https://sentry.io/welcome) - Exception handling
 - [Bugsnag](https://www.bugsnag.com/) - Exception handling
 - [Betterstack](https://betterstack.com) - Uptime monitoring
+
+## Hosting
+
+- [Vercel](https://vercel.com/) - Best hosting for Next apps
+- [Google Cloud](https://cloud.google.com/) - no description needed
+- [Microsoft Azure](https://azure.microsoft.com/) - no description needed
+- [Amazon AWS](https://aws.amazon.com/) - no description needed
