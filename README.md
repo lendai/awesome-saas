@@ -42,3 +42,7 @@ Might be slightly biased towards Swedish tools :)
 - [Google Cloud](https://cloud.google.com/) - no description needed
 - [Microsoft Azure](https://azure.microsoft.com/) - no description needed
 - [Amazon AWS](https://aws.amazon.com/) - no description needed
+
+## Infrastructure
+
+- [Pulumi](https://www.pulumi.com/) - Infra as code, using common langauges like TS, Python, Go, etc
