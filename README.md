@@ -16,3 +16,10 @@ Might be slightly biased towards Swedish tools :)
 
 - [RedwoodJS](https://redwoodjs.com/) - Based on React, includes tooling for most common tasks
 - [NextJS](https://nextjs.org/) - The framework for bulding applications using React
+
+## Analytics
+
+- [Amplitude](https://amplitude.com/) - Great, if you can afford it
+- [June](https://www.june.so/) - Customer analytics for product focused teams
+- [Steep](https://steep.app/) - Notion but for data visualization (🇸🇪)
+- [Hex](https://hex.tech/) - Easy graphing tool
