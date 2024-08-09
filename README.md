@@ -72,3 +72,10 @@ Might be slightly biased towards Swedish tools :)
 - [Github Copilot](https://github.com/features/copilot) - Your AI pair programmer, GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 - [Codeball Ai](https://codeball.ai/) - AI-powered code review. Codeball finds bugs in your Pull Requests, lets you ship faster and with higher confidence. The Codeball AI is trained on millions of code contributions to recognize risky code changes.
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An automated tool for code summarization and completion using GPT models.
+
+## Agent Based
+
+- [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - A tool for code completion and summarization
+- [QA.tech](https://qa.tech) - AI agent based testing of SaaS products 🇸🇪
+- [hyperwriteai](https://www.hyperwriteai.com/) - Uses browser in real-time and does the job for you
+- [GPTEngineer](https://gptengineer.app/) - Chat to an agent and generate complete web apps 🇸🇪
