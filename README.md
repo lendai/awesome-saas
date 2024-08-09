@@ -11,3 +11,8 @@ Might be slightly biased towards Swedish tools :)
 ## Testing
 
 - [QA.tech](https://qa.tech) - AI agent based testing of SaaS products, zero setup! 🇸🇪
+
+## Frameworks
+
+- [RedwoodJS](https://redwoodjs.com/) - Based on React, includes tooling for most common tasks
+- [NextJS](https://nextjs.org/) - The framework for bulding applications using React
