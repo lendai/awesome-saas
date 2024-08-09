@@ -7,3 +7,7 @@ Might be slightly biased towards Swedish tools :)
 ## Boilerplates and Starer kits
 
 - [MakerKit](https://makerkit.dev) - Awesome starter for a SaaS product. Based on Next/Remix and Supabse/Firebase
+
+## Testing
+
+- [QA.tech](https://qa.tech) - AI agent based testing of SaaS products, zero setup! 🇸🇪
