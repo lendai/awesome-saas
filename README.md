@@ -46,3 +46,7 @@ Might be slightly biased towards Swedish tools :)
 ## Infrastructure
 
 - [Pulumi](https://www.pulumi.com/) - Infra as code, using common langauges like TS, Python, Go, etc
+
+## Payments
+
+- [Stripe](https://stripe.com/) - Simple setup, good startup deals
