@@ -29,3 +29,9 @@ Might be slightly biased towards Swedish tools :)
 - [Supabase](https://supabase.com/) - Combines postgres and a Firebase like setup, but open source
 - [Firebase](https://firebase.google.com/) - Database and application layer
 - [Neo4j](https://neo4j.com/) - My graph database of choice (🇸🇪)
+
+## Observability & Exception Handling
+
+- [Sentry](https://sentry.io/welcome) - Exception handling
+- [Bugsnag](https://www.bugsnag.com/) - Exception handling
+- [Betterstack](https://betterstack.com) - Uptime monitoring
