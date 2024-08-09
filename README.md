@@ -84,3 +84,12 @@ Might be slightly biased towards Swedish tools :)
 
 - [ChatGPT (openapi)](https://chat.openai.com/chat) - An AI chatbot that can answer anything
 - [Bard with Gemini (google)](https://bard.google.com/) - An AI chatbot that can answer anything, from google.
+
+## Design
+
+- [Figma](https://www.figma.com/) - the design tool for all digital products
+
+## Marketing
+
+- [Blaze](https://www.blaze.ai/) - Generate marketing content using your brand voice
+- [Copy.ai](https://www.copy.ai/): AI to polish your blogs and rewrite sentences
