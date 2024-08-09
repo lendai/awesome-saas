@@ -88,6 +88,7 @@ Might be slightly biased towards Swedish tools :)
 ## Design
 
 - [Figma](https://www.figma.com/) - the design tool for all digital products
+- [uizard](https://uizard.io/) - Turn product ideas into concepts instantly with GenAI
 
 ## Marketing
 
