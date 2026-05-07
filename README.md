@@ -95,6 +95,6 @@ Might be slightly biased towards Swedish tools :)
 - [uizard](https://uizard.io/) - Turn product ideas into concepts instantly with GenAI
 
 ## Marketing
-
+- [Peddlum](https://peddlum.com) - Distribution channel for SaaS founders — list your tool and recruit creators to promote it on TikTok, Instagram, and YouTube.
 - [Blaze](https://www.blaze.ai/) - Generate marketing content using your brand voice
 - [Copy.ai](https://www.copy.ai/): AI to polish your blogs and rewrite sentences
