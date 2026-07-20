@@ -98,3 +98,4 @@ Might be slightly biased towards Swedish tools :)
 
 - [Blaze](https://www.blaze.ai/) - Generate marketing content using your brand voice
 - [Copy.ai](https://www.copy.ai/): AI to polish your blogs and rewrite sentences
+- [Screpy](https://screpy.com/) - AI-assisted SEO platform for audits, rank tracking, and Core Web Vitals monitoring.
