@@ -11,6 +11,7 @@ Might be slightly biased towards Swedish tools :)
 ## Testing
 
 - [QA.tech](https://qa.tech) - AI agent based testing of SaaS products, zero setup! 🇸🇪
+- [Agent QA](https://github.com/vostride/agent-qa) - Natural-language web and mobile regression testing with execution memory and adaptation to UI changes. Source-available under FSL-1.1-ALv2; each release converts to Apache-2.0 after two years.
 
 ## Frameworks
 
