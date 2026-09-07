@@ -7,6 +7,7 @@ Might be slightly biased towards Swedish tools :)
 ## Boilerplates and Starer kits
 
 - [MakerKit](https://makerkit.dev) - Awesome starter for a SaaS product. Based on Next/Remix and Supabse/Firebase
+- [Hype Stack](https://www.hype-stack.dev) - Free MIT fullstack SaaS monorepo. React/Hono/Vite/Postgres, Electron, Expo, browser extension, CLI + MCP
 
 ## Testing
 
