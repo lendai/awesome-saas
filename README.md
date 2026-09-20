@@ -51,6 +51,11 @@ Might be slightly biased towards Swedish tools :)
 
 - [Aikocorp](https://aikocorp.ai/) - Pentesting as a service
 
+
+## Invoicing
+
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser-only freelance invoice, quote, and receipt generators (no signup, print to PDF)
+
 ## Payments
 
 - [Stripe](https://stripe.com/) - Simple setup, good startup deals
