@@ -97,4 +97,5 @@ Might be slightly biased towards Swedish tools :)
 ## Marketing
 
 - [Blaze](https://www.blaze.ai/) - Generate marketing content using your brand voice
+- [Social Roster](https://socialroster.dev/) - Schedule TikTok, Instagram Reels, YouTube Shorts, and Facebook videos from one calendar — with bulk upload.
 - [Copy.ai](https://www.copy.ai/): AI to polish your blogs and rewrite sentences
