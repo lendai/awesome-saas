@@ -23,6 +23,7 @@ Might be slightly biased towards Swedish tools :)
 - [June](https://www.june.so/) - Customer analytics for product focused teams
 - [Steep](https://steep.app/) - Notion but for data visualization (🇸🇪)
 - [Hex](https://hex.tech/) - Easy graphing tool
+- [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 ## Database
 
