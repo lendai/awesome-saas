@@ -7,6 +7,7 @@ Might be slightly biased towards Swedish tools :)
 ## Boilerplates and Starer kits
 
 - [MakerKit](https://makerkit.dev) - Awesome starter for a SaaS product. Based on Next/Remix and Supabse/Firebase
+- [supastack](https://supastack.dev) - Multi-platform SaaS starter kit for web (Next.js), mobile (Expo), desktop (Tauri) and browser extension (WXT)
 
 ## Testing
 
